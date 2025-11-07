@@ -2,7 +2,10 @@
   "name": "scratch",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Kunal-30.github.io/Learning",
+
   "type": "module",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -16,5 +19,7 @@
     "@vitejs/plugin-react": "^4.3.1",
     "vite": "^5.4.8"
   }
+
+  
 }
 
